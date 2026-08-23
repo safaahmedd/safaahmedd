@@ -8,14 +8,14 @@
 
 <div align="center">
 
-<!-- BANNER — generated on the fly by capsule-render (a URL, not an uploaded file), colors from your red/orange/magenta/maroon palette -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=welcome%20to%20my%20world&descAlignY=62&descSize=22" alt="banner" />
+<!-- BANNER — locked in: red/orange/magenta/maroon gradient wave, no text overlay -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&animation=fadeIn" alt="banner" />
 
-<br/><br/>
+<br/>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — prominent, single line -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D62839&center=true&vCenter=true&width=400&lines=hi+im+safa+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=D62839&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Safa+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 </div>
