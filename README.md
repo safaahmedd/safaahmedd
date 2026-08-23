@@ -24,17 +24,29 @@
 
 <br/>
 
+> I like **technology, art, old things, new ideas, and making things that didn't exist before.**
+
+<br/>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/fueled%20by-curiosity%20%26%20cold%20coffee-D62839?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/status-professionally%20overthinking-F4801E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/currently-collecting%20unfinished%20ideas-A10E56?style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
 </div>
 
 <br/>
 
-> I like **technology, art, old things, new ideas, and making things that didn't exist before.**
+> ### I'm a Data Science student at FAST University working across **machine learning**, **data engineering**, and **full-stack development**.
+>
+> My toolkit spans **Python** for data analysis and model development, **JavaScript / React / Next.js** for building interfaces, and **Arduino / ESP32** for hardware prototyping — with a research-driven, human-centered approach tying it together.
+>
+> I'm particularly interested in the pipeline from raw data to deployed system: cleaning and visualizing messy datasets, training and evaluating models, and designing the UI/UX layer that makes the output usable. I care as much about **system design and why something works** as I do about shipping it.
 
-I'm a Data Science student at **FAST University**, currently figuring out how to combine the things I love instead of choosing just one. Somewhere along the way I ended up interested in **AI, data, software, design, hardware, storytelling**, and the strange little ideas that show up at 2 AM.
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
+</div>
+
+<br/>
 
 So — this GitHub is basically where I put some of them.
 
