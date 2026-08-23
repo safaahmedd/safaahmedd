@@ -89,33 +89,11 @@
 
 <br/>
 
-## 🔎 featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🗺️ Forgotten Places of Pakistan**
-An interactive archive for places that deserve to be remembered — because not everything interesting makes it onto Google Maps.
-`Next.js` `React Leaflet` `OpenStreetMap`
-
-</td>
-<td width="50%" valign="top">
-
-**📝 Browser Notes**
-A browser extension concept for attaching quick notes and tags to individual tabs — little sticky notes for the internet.
-`Browser Extension` `Concept`
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- GITHUB STATS — replace YOUR-USERNAME with your real GitHub username -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&title_color=D62839&icon_color=F4801E&text_color=5A1420&bg_color=00000000" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=safaahmedd&show_icons=true&hide_border=true&title_color=D62839&icon_color=F4801E&text_color=5A1420&bg_color=00000000" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&background=00000000&stroke=D62839&ring=F4801E&fire=A10E56&currStreakLabel=D62839&sideLabels=5A1420&dates=5A1420" height="165" />
 
 </div>
