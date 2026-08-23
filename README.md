@@ -161,7 +161,7 @@ A modified Xonix game built in C++ with SFML — added menus, scoring, a persist
 
 <br/>
 
-<p align="center"><i>making things, collecting ideas, figuring it out.</i></p>
+<p align="center"><i>turning ideas into things, one repo at a time.</i></p>
 
 <br/>
 
