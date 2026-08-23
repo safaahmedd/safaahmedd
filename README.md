@@ -11,19 +11,19 @@
 <div align="center">
 
 <!-- BANNER — red/orange/magenta/maroon gradient wave, with white text baked directly into the image so it always renders on top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa%20Ahmed&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
 
 <!-- QUICK CONTACT — small icon-only links right under the banner -->
 <a href="https://www.linkedin.com/in/safaahmed1" target="_blank">
-  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:safa.foodie@gmail.com">
-  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/YOUR-USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
 </a>
 
 </div>
@@ -132,7 +132,7 @@ A browser extension concept for attaching quick notes and tags to individual tab
 
 <br/>
 
-## 📫 let's connect
+## 📫 connect
 
 <div align="center">
 
