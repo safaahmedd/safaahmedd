@@ -39,9 +39,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
-</div>
+
 
 <br/>
 
@@ -118,7 +116,9 @@ A modified Xonix game built in C++ with SFML — added menus, scoring, a persist
 
 <br/>
 
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
+</div>
 
 ## 📫 connect
 
