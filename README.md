@@ -11,13 +11,13 @@
 <div align="center">
 
 <!-- BANNER — red/orange/magenta/maroon gradient wave, with white text baked directly into the image so it always renders on top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa%20Ahmed&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
 
 </div>
 
 <!-- TAGLINE — typing animation, rotating through technical focus areas -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=1000&color=F4801E&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Data+Engineering;Full-Stack+Development+%E2%80%94+React+%2F+Next.js;Turning+raw+data+into+deployed+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=1000&color=8A420C&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Data+Engineering;Full-Stack+Development+%E2%80%94+React+%2F+Next.js;Turning+raw+data+into+deployed+systems" alt="Typing SVG" />
 </div>
 
 <br/><br/>
@@ -119,6 +119,20 @@ A modified Xonix game built in C++ with SFML — added menus, scoring, a persist
 <br/>
 
 <!-- GITHUB STATS — replace safaahmedd with your real GitHub username -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=safaahmedd&show_icons=true&hide_border=true&title_color=D62839&icon_color=F4801E&text_color=5A1420&bg_color=00000000" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=safaahmedd&hide_border=true&background=00000000&stroke=D62839&ring=F4801E&fire=A10E56&currStreakLabel=D62839&sideLabels=5A1420&dates=5A1420" height="165" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
+</div>
+
+<br/>
 
 ## 📫 connect
 
