@@ -8,14 +8,8 @@
 
 <div align="center">
 
-<!-- BANNER — red/orange/magenta/maroon gradient wave -->
-<!-- Typing animation is layered on top in white using absolute positioning -->
-<div style="position: relative; width: 100%;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&animation=fadeIn" alt="banner" />
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Safa+%F0%9F%91%8B" alt="Typing SVG" />
-  </div>
-</div>
+<!-- BANNER — red/orange/magenta/maroon gradient wave, with white text baked directly into the image so it always renders on top -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
 
 </div>
 
