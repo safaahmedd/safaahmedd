@@ -22,15 +22,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A10E56&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Safa+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
-<br/>
 
-> I like **technology, art, old things, new ideas, and making things that didn't exist before.**
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
-</div>
 
 <br/>
 
