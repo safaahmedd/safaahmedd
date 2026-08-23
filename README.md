@@ -90,19 +90,6 @@
 <br/>
 
 
-<!-- GITHUB STATS — replace YOUR-USERNAME with your real GitHub username -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=safaahmedd&show_icons=true&hide_border=true&title_color=D62839&icon_color=F4801E&text_color=5A1420&bg_color=00000000" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&background=00000000&stroke=D62839&ring=F4801E&fire=A10E56&currStreakLabel=D62839&sideLabels=5A1420&dates=5A1420" height="165" />
-
-</div>
-
-<br/>
-
-<p align="center"><i>making things, collecting ideas, figuring it out.</i></p>
-
-<br/>
 
 <!-- FOOTER — same gradient, flipped, to bookend the banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=100&section=footer" alt="footer" />
