@@ -4,14 +4,27 @@
   1. Create a new repo with the EXACT same name as your GitHub username.
   2. Add this file as README.md in that repo.
   3. It will automatically show up on your profile page.
-  4. Replace YOUR-USERNAME (stats section) and the placeholder links in the
-     Connect section below with your real info.
+  4. Replace every YOUR-USERNAME with your real GitHub username (used in the
+     GitHub button, and in the stats section near the bottom).
 -->
 
 <div align="center">
 
 <!-- BANNER — red/orange/magenta/maroon gradient wave, with white text baked directly into the image so it always renders on top -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
+
+<!-- QUICK CONTACT — small icon-only links right under the banner -->
+<a href="https://www.linkedin.com/in/safaahmed1" target="_blank">
+  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:safa.foodie@gmail.com">
+  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -36,26 +49,6 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
-</div>
-
-<br/>
-
-## 📫 connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/safaahmed1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:safa.foodie@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/YOUR-USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
@@ -128,6 +121,32 @@ A browser extension concept for attaching quick notes and tags to individual tab
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&title_color=D62839&icon_color=F4801E&text_color=5A1420&bg_color=00000000" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&background=00000000&stroke=D62839&ring=F4801E&fire=A10E56&currStreakLabel=D62839&sideLabels=5A1420&dates=5A1420" height="165" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=3&width=1500" width="65%" alt="divider"/>
+</div>
+
+<br/>
+
+## 📫 let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/safaahmed1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:safa.foodie@gmail.com">
+  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
