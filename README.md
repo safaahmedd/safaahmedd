@@ -19,7 +19,15 @@
 
 <!-- TAGLINE — typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=E01870&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Safa+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A10E56&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Safa+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/fueled%20by-curiosity%20%26%20cold%20coffee-D62839?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-professionally%20overthinking-F4801E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/currently-collecting%20unfinished%20ideas-A10E56?style=for-the-badge" />
 </div>
 
 <br/>
@@ -127,22 +135,40 @@ My favourite projects usually start with a question that sounds a little unneces
 
 ## 🔎 things i've built / am building
 
-### 🗺️ `Forgotten Places of Pakistan`
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🗺️
+### `Forgotten Places of Pakistan`
+
 An interactive archive for places that deserve to be remembered — because not everything interesting makes it onto Google Maps.
 
-**built with:** `Next.js` `React Leaflet` `OpenStreetMap`
+`Next.js` `React Leaflet` `OpenStreetMap`
 
----
+</td>
+<td width="33%" valign="top" align="center">
 
-### 📝 `Browser Notes`
-What if every webpage could have its own tiny memory? A browser extension concept for attaching quick notes and tags to individual tabs — basically little sticky notes for the internet.
+### 📝
+### `Browser Notes`
 
----
+What if every webpage could have its own tiny memory? Little sticky notes for the internet — attached to whatever tab you were on.
 
-### 🔌 `tiny machines`
-Time spent making hardware do things it probably didn't know it was supposed to do.
+`browser extension` `concept`
 
-`Arduino` · `ESP32` · sensors · LEDs · circuits · debugging
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔌
+### `tiny machines`
+
+Making hardware do things it probably didn't know it was supposed to do.
+
+`Arduino` `ESP32` `sensors` `LEDs` `circuits` `debugging (a lot of it)`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -185,25 +211,37 @@ I'm especially interested in the space where they all overlap.
 
 ## 📚 currently learning
 
-```text
-AI                 ███████░░░  getting there
-Data Science       ████████░░  getting there
-Web Development    ███████░░░  building
-UI/UX              ████████░░  having fun
-Hardware           ██████░░░░  occasionally suffering
-Figuring life out  ███░░░░░░░  work in progress
-```
+<div align="center">
+
+| skill | progress |
+|---|---|
+| 🤖 AI | ![](https://progress-bar.xyz/70?title=&color=D62839&width=200) |
+| 📊 Data Science | ![](https://progress-bar.xyz/80?title=&color=F4801E&width=200) |
+| 🌐 Web Development | ![](https://progress-bar.xyz/70?title=&color=A10E56&width=200) |
+| 🎨 UI/UX | ![](https://progress-bar.xyz/80?title=&color=5A1420&width=200) |
+| 🔌 Hardware | ![](https://progress-bar.xyz/60?title=occasionally%20suffering&color=D62839&width=200) |
+| 🧩 Figuring life out | ![](https://progress-bar.xyz/30?title=work%20in%20progress&color=F4801E&width=200) |
+
+</div>
 
 <br/>
 
 ## 💭 a few things about me
 
-- I will probably turn a simple idea into a much bigger project.
-- I like understanding **why** something works, not just making it work.
-- I get disproportionately excited when technology can be used creatively.
-- I collect project ideas faster than I finish them.
-- I think a good interface can completely change how someone experiences technology.
-- I like quiet things. I like ambitious things. Somehow, I like both.
+<table>
+<tr>
+<td width="50%">💡 I will probably turn a simple idea into a much bigger project than it needed to be</td>
+<td width="50%">🔍 I like understanding <b>why</b> something works, not just making it work</td>
+</tr>
+<tr>
+<td width="50%">✨ I get disproportionately excited when technology can be used creatively</td>
+<td width="50%">📦 I collect project ideas faster than I finish them</td>
+</tr>
+<tr>
+<td width="50%">🖼️ I think a good interface can completely change how someone experiences technology</td>
+<td width="50%">🌙 I like quiet things. I like ambitious things. Somehow, I like both</td>
+</tr>
+</table>
 
 <br/>
 
