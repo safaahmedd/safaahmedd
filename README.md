@@ -11,18 +11,16 @@
 <div align="center">
 
 <!-- BANNER — red/orange/magenta/maroon gradient wave, with white text baked directly into the image so it always renders on top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa%20Ahmed&fontSize=45&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
 
 </div>
-
-<br/>
 
 <!-- TAGLINE — typing animation, rotating through technical focus areas -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=1000&color=A10E56&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Data+Engineering;Full-Stack+Development+%E2%80%94+React+%2F+Next.js;Turning+raw+data+into+deployed+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=1000&color=F4801E&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Data+Engineering;Full-Stack+Development+%E2%80%94+React+%2F+Next.js;Turning+raw+data+into+deployed+systems" alt="Typing SVG" />
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- QUICK CONTACT — labeled links below the tagline -->
 <div align="center">
@@ -103,16 +101,16 @@
 <tr>
 <td width="50%" valign="top">
 
-**🗺️ Forgotten Places of Pakistan**
-An interactive archive for places that deserve to be remembered — because not everything interesting makes it onto Google Maps.
-`Next.js` `React Leaflet` `OpenStreetMap`
+**🃏 [uno-using-search](https://github.com/safaahmedd/uno-using-search)**
+A 3-player UNO game with AI agents using Minimax (defensive) and Expectimax (offensive) adversarial search.
+`Jupyter Notebook` `Adversarial Search` `AI Agents`
 
 </td>
 <td width="50%" valign="top">
 
-**📝 Browser Notes**
-A browser extension concept for attaching quick notes and tags to individual tabs — little sticky notes for the internet.
-`Browser Extension` `Concept`
+**🎮 [xonix-game-cpp](https://github.com/safaahmedd/xonix-game-cpp)**
+A modified Xonix game built in C++ with SFML — added menus, scoring, a persistent scoreboard, and partial two-player support.
+`C++` `SFML` `Game Dev`
 
 </td>
 </tr>
