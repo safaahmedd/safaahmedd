@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- BANNER — red/orange/magenta/maroon gradient wave, with white text baked directly into the image so it always renders on top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=220&section=header&text=Hi,%20I'm%20Safa&fontSize=55&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D62839,35:F4801E,70:E01870,100:5A1420&height=140&section=header&text=Hi,%20I'm%20Safa&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="banner" />
 
 </div>
 
@@ -27,9 +27,9 @@
 
 <br/>
 
-<!-- TAGLINE — typing animation, cycling through how you'd describe yourself -->
+<!-- TAGLINE — typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D62839&center=true&vCenter=true&width=650&lines=data+science+student;creative+person;professional+overthinker;maker+of+things+that+didn't+exist+before" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=D62839&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Safa+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <br/>
